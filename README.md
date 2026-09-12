@@ -173,8 +173,3 @@ Possible improvements include:
 - Jupyter Notebook
 - Git & GitHub
 
-## Author
-
-**Nikhil**
-
-Final Year B.Sc. Data Science Project
